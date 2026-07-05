@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# MATLAB / Simulink
+*.asv
+*.autosave
+slprj/
+*.slxc
+octave-workspace
+
+# Generated lab outputs (students produce these when running the labs)
+Lab_*_Data*.csv
+Lab_*_Plot*.png
