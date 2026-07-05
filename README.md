@@ -38,25 +38,7 @@ Each lab folder contains its own `README.md`, a student worksheet (`.docx` and
 └── README.md
 ```
 
-## Equipment (per group — total ≈ \$74.77)
-
-| Component | Qty | Unit cost | Supplier |
-|-----------|:---:|:---------:|----------|
-| Arduino UNO REV3 | 1 | \$27.60 | Arduino (via Amazon) |
-| USB Cable – 6″ A-B | 1 | \$2.95 | Adafruit |
-| Half-sized premium breadboard | 1 | \$5.00 | Adafruit |
-| Breadboarding wire bundle | 1 | \$4.95 | Adafruit |
-| Submersible 3 V DC water pump | 2 | \$2.95 | Adafruit |
-| PVC tubing, 6 mm ID (1 m) | 1 | \$1.50 | Adafruit |
-| L9110H H-bridge motor driver | 2 | \$1.50 | Adafruit |
-| Alligator-clip-to-male bundle | 1 | \$3.95 | Adafruit |
-| 20 kg digital load cell kit (NAU7802) | 1 | \$15.99 | Geekstory (via Amazon) |
-| STEMMA QT 4-pin to male | 1 | \$0.95 | Adafruit |
-| 500 mL plastic beaker | 2 | \$0.45 | Uline |
-| Microfiber cloth | 1 | \$0.83 | Amazon |
-| Plastic bin | 1 | \$1.25 | Target |
-
-See [`Equipment.xlsx`](Equipment.xlsx) for the complete bill of materials.
+The full bill of materials is in [`Equipment.xlsx`](Equipment.xlsx).
 
 ## Software requirements
 
@@ -64,10 +46,6 @@ See [`Equipment.xlsx`](Equipment.xlsx) for the complete bill of materials.
 - **Adafruit NAU7802 library** — install via the Arduino IDE Library Manager
   (*Sketch → Include Library → Manage Libraries → "Adafruit NAU7802"*).
 - **MATLAB with Simulink** and the **System Identification Toolbox** (Lab 2).
-  The labs were developed and tested on **MATLAB R2023b**.
-  > ⚠️ On **R2024a** some students hit issues installing a required Simulink
-  > hardware-support package. If you run into problems, R2023b is the known-good
-  > version.
 
 ## General workflow
 
@@ -97,11 +75,8 @@ setpoint (%) back from Simulink.
 
 ## Citation
 
-If you use these materials, please cite the accompanying paper:
-
-> B. Lopez, P. Brahmbhatt, M.-L. Tsai, S. Avraamidou. *Modular
-> Microcontroller-based Laboratories in Process Dynamics and Control.*
-> (Submitted to *Education for Chemical Engineers*.)
+If you use these materials, full citation information will be provided after
+publication.
 
 ## License
 
