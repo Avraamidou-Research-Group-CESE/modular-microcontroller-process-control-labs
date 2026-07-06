@@ -9,9 +9,6 @@ Each group builds a small water-level control system on a breadboard, calibrates
 its sensor and actuator, identifies a first-order process model, and designs and
 tunes a P/PI level controller. The full kit costs about **\$74.77 per group**.
 
-> Developed by the [Avraamidou Research Group (CESE)](https://github.com/Avraamidou-Research-Group-CESE),
-> Department of Chemical and Biological Engineering, University of Wisconsin–Madison.
-
 ---
 
 ## The three labs
